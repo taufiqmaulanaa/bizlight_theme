@@ -8173,6 +8173,14 @@ button.close {
   .section-c .btn-primary {
     background: #13646b; }
 
+.title-bar {
+  background: url(../img/showcase.jpg) no-repeat 0 -300px;
+  padding-bottom: 10px;
+  border-bottom: 4px solid #1a8c97; }
+
+.main {
+  margin-top: 30px; }
+
 footer {
   padding: 30px 0;
   background: #13646b;

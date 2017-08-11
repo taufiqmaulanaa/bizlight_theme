@@ -1,3 +1,6 @@
+$main-color: #1a8c97;
+$icon-size : 60px;
+
   .navbar{
     margin-bottom: 0;
     a{
@@ -56,6 +59,16 @@
   .btn-primary{
     background: darken($main-color,10%);
   }
+}
+
+.title-bar{
+    background: url(../img/showcase.jpg) no-repeat 0 -300px;
+    padding-bottom: 10px;
+    border-bottom: 4px solid $main-color;
+}
+
+.main{
+  margin-top: 30px;
 }
 
 footer{
